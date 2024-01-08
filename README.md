@@ -1,6 +1,6 @@
 # Food-101-Image-Classification
 A milestone project created as a part of Daniel Bourke's Tensorflow Course (on Udemy).
-Provide it with an image pat to a food picture, and it will tell what it thinks it is, from the 101 food classes it is trained on.
+Provide it with an image path to a food picture, and it will tell what it thinks it is, from the 101 food classes it is trained on.
 
 I installed tensorflow locally on my machine and trained it using an Nvidia GTX 1650 GPU.
 I provided the libraries required in `requirements.txt` file.
